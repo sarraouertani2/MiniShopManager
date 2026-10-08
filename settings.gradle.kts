@@ -22,5 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MiniShopManager"
+rootProject.name = "listepays"
 include(":app")
+ 
