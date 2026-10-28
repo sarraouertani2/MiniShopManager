@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "listepays"
+rootProject.name = "MesCoursApp"
 include(":app")
  
