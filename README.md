@@ -1,6 +1,6 @@
-# hello_world
+# minishop_manager
 
-My first Flutter application
+A new Flutter project.
 
 ## Getting Started
 
