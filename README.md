@@ -1,6 +1,6 @@
-# minishop_manager
+# exercice_navigation
 
-A new Flutter project.
+Mini application Flutter avec deux écrans.
 
 ## Getting Started
 
